@@ -8,7 +8,7 @@ nav a {
   float: right;
   margin-left: 5.5px;
   display: block;
-  color: #ffffff;
+  color: #000000;
   text-align: center;
   padding: 20px 20px;
   text-decoration: none;
@@ -16,21 +16,21 @@ nav a {
 }
 
 nav a:hover {
-  background-color: #0f0f0f;
+  background-color: #ffffff;
   color: #ffffff;
   transition: 1.5s;
   border-radius: 10px;
 }
 
 nav a.active {
-  background-color: #4c24ff;
+  background-color: #ffffff;
   color: white;
   border-radius: 10px;
   
 }
 
 nav a.active:hover {
-  background-color: #2f00ff;
+  background-color: #ffffff;
   color: white;
   transition: 1.5s;
 }
